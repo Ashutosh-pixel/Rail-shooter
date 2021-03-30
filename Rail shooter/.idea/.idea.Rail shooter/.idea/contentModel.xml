@@ -2,16 +2,100 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Lenovo ideapad 320\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Lenovo ideapad 320\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Rail shooter.298489218.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Lenovo ideapad 320\Documents\Unity\Rail shooter" t="IncludeRecursive">
+    <e p="C:\Users\Lenovo ideapad 320\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Rail shooter.1832457945.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Lenovo ideapad 320\Documents\Unity\Rail-shooter\Rail shooter" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="PathCreator" t="Include">
+          <e p="Core" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Helper" t="Include">
+                <e p="MouseUtility.cs" t="Include" />
+                <e p="PathHandle.cs" t="Include" />
+                <e p="ScreenSpacePolyLine.cs" t="Include" />
+              </e>
+              <e p="PathCreatorEditor.asmdef" t="Include" />
+              <e p="PathEditor.cs" t="Include" />
+            </e>
+            <e p="Runtime" t="Include">
+              <e p="Objects" t="Include">
+                <e p="BezierPath.cs" t="Include" />
+                <e p="EndOfPathInstruction.cs" t="Include" />
+                <e p="GlobalDisplaySettings.cs" t="Include" />
+                <e p="MinMax3D.cs" t="Include" />
+                <e p="PathCreator.cs" t="Include" />
+                <e p="PathCreatorData.cs" t="Include" />
+                <e p="PathSpace.cs" t="Include" />
+                <e p="VertexPath.cs" t="Include" />
+              </e>
+              <e p="PathCreator.asmdef" t="Include" />
+              <e p="Utility" t="Include">
+                <e p="CubicBezierUtility.cs" t="Include" />
+                <e p="MathUtility.cs" t="Include" />
+                <e p="VertexPathUtility.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Examples" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="PathSceneToolEditor.cs" t="Include" />
+              </e>
+              <e p="GeneratePathExample.cs" t="Include" />
+              <e p="PathFollower.cs" t="Include" />
+              <e p="PathPlacer.cs" t="Include" />
+              <e p="PathSceneTool.cs" t="Include" />
+              <e p="PathSpawner.cs" t="Include" />
+              <e p="RoadMeshCreator.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Scripts" t="Include">
-          <e p="test.cs" t="Include" />
+          <e p="Boost.cs" t="Include" />
+          <e p="Movement.cs" t="Include" />
+          <e p="path.cs" t="Include" />
+          <e p="Standard Assets" t="Include">
+            <e p="CrossPlatformInput" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AxisTouchButton.cs" t="Include" />
+                <e p="ButtonHandler.cs" t="Include" />
+                <e p="CrossPlatformInputManager.cs" t="Include" />
+                <e p="InputAxisScrollbar.cs" t="Include" />
+                <e p="Joystick.cs" t="Include" />
+                <e p="MobileControlRig.cs" t="Include" />
+                <e p="PlatformSpecific" t="Include">
+                  <e p="MobileInput.cs" t="Include" />
+                  <e p="StandaloneInput.cs" t="Include" />
+                </e>
+                <e p="TiltInput.cs" t="Include" />
+                <e p="TouchPad.cs" t="Include" />
+                <e p="VirtualInput.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Utility" t="Include">
+              <e p="WaypointCircuit.cs" t="Include" />
+              <e p="WaypointProgressTracker.cs" t="Include" />
+            </e>
+          </e>
+          <e p="zaxis.cs" t="Include" />
+        </e>
+        <e p="UCLAGameLab" t="Include">
+          <e p="Wireframe" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="UCLA GameLab Cutout Wireframe.shader" t="Include" />
+              <e p="UCLA GameLab Double-Sided Cutout Wireframe.shader" t="Include" />
+              <e p="UCLA GameLab Double-Sided Wireframe.shader" t="Include" />
+              <e p="UCLA GameLab Wireframe Functions.cginc" t="Include" />
+              <e p="UCLA GameLab Wireframe.shader" t="Include" />
+            </e>
+          </e>
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
+      <e p="PathCreator.csproj" t="IncludeRecursive" />
+      <e p="PathCreatorEditor.csproj" t="IncludeRecursive" />
       <e p="Rail shooter.sln" t="IncludeFlat" />
       <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
