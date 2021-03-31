@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489a1241-5df6-4bd2-b9fc-5c8fa58cf4ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Rail shooter/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Rail shooter/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Rail shooter/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Rail shooter/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Rail shooter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Rail shooter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/retro scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/retro scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/retro scene_Profiles/postprocessing Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/retro scene_Profiles/postprocessing Profile.asset" afterDir="false" />
-    </list>
+    <list default="true" id="489a1241-5df6-4bd2-b9fc-5c8fa58cf4ba" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +24,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/RiderScriptEditor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/path.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/camerazoominout.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/zaxis.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Boost.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.6.3/Runtime/Behaviours/CinemachineBrain.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/MainModel.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -42,11 +36,12 @@
       <option value="$PROJECT_DIR$/Assets/PathCreator/Core/Runtime/Objects/GlobalDisplaySettings.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/camera.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/zaxis.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/XandYMovement.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/path.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Boost.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/camerazoominout.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/zaxis.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1psWUjJcyYSQxaZtJM8EFukLrit" />

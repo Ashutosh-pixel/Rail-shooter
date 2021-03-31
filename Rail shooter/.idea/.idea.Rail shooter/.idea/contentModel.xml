@@ -52,7 +52,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="Boost.cs" t="Include" />
+          <e p="camerazoominout.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="path.cs" t="Include" />
           <e p="Standard Assets" t="Include">
